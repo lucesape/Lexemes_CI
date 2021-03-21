@@ -11,6 +11,6 @@ public class SolutionTest {
 
     @Test
     public void multipleInt() {
-        Assert.assertEquals(54, solution.multipleInt(1,4));
+        Assert.assertEquals(5, solution.multipleInt(1,4));
     }
 }

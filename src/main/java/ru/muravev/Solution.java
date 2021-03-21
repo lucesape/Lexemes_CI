@@ -192,6 +192,6 @@ public class Solution {
     }
 
     public int multipleInt (int a, int b){
-        return a + b;
+        return a+b&&a;
     }
 }
